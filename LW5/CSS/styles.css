@@ -70,3 +70,19 @@
     /* or 31px */
     color: rgba(0, 0, 0, 0.7);
 }
+.separator
+{
+    width: 1920px;
+/*    height: 398px;*/
+    background: #000000;
+}
+.separator__text
+{
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 120%;
+    /* or 26px */
+    color: #FFFFFF;
+}
